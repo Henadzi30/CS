@@ -1,0 +1,15 @@
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.exe
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.deps.json
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.runtimeconfig.json
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.dll
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\bin\Debug\net6.0\Example001_HelloConcole.pdb
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.AssemblyReference.cache
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfoInputs.cache
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.AssemblyInfo.cs
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.csproj.CoreCompileInputs.cache
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.dll
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\refint\Example001_HelloConcole.dll
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.pdb
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\Example001_HelloConcole.genruntimeconfig.cache
+D:\It\GeekBranse\Разработчик\С#\Example001_HelloConcole\obj\Debug\net6.0\ref\Example001_HelloConcole.dll
